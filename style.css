@@ -87,10 +87,11 @@ nav ul {
 
 nav ul li {
   color: white;
-  display: inline-block;
+  display: inline-block; 
   margin: 6px 16px 0 0;
   font-size: 17px;
   padding: 30px;
+  
 }
 
 .mic:hover {
